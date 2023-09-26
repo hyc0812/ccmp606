@@ -1,0 +1,6 @@
+login: dev: Permission denied
+[1m[3m%[23m[1m[0m                                                                                ]7;file://Yongchangs-iMac.local/Users/yongchanghe[0m[23m[24m[Jyongchanghe@Yongchangs-iMac ~ % [K[?2004hdocker compose up[17D                 [17Dlls /dv ev/tty.(*  ( *[?2004l
+/dev/tty.Bluetooth-Incoming-Port	/dev/tty.usbserial-A903IVT2
+/dev/tty.usbmodem14203
+[1m[3m%[23m[1m[0m                                                                                ]7;file://Yongchangs-iMac.local/Users/yongchanghe[0m[23m[24m[Jyongchanghe@Yongchangs-iMac ~ % [K[?2004hsscreen -L /dev/tty.usbserial-A903IVT2[1m [0m[0m 115200[?2004l
+[1m[3m%[23m[1m[0m                                                                                ]7;file://Yongchangs-iMac.local/Users/yongchanghe[0m[23m[24m[Jyongchanghe@Yongchangs-iMac ~ % [K[?2004h
